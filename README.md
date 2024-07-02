@@ -2,8 +2,11 @@
 Creating a contact management system using structures in C. The program should allow the user to add, delete, search and display contacts.Each contact should contain the following information:
 
 First Name
+
 Last Name
+
 Phone Number
+
 Email Address
 
 The program should allow the user to perform the following operations:
